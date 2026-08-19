@@ -6,7 +6,7 @@
 
 _魔方财务系统支持版本： **=3.7.6**_
 
-1. 首先需要安装php扩展。根据网站要使用的php版本，下载扩展文件（[php7.2](https://github.com/你的用户名/你的仓库/raw/main/ext/php7.2/idcsmart.so)、[php7.3](https://github.com/你的用户名/你的仓库/raw/main/ext/php7.3/idcsmart.so)、[php7.4](https://github.com/chidianqianying/你zimf_arm64/raw/main/php7.4/idcsmart.so)），上传到php安装目录 /lib/php/extensions/no-debug-non-zts-xxxx（xxxx为一串数字）文件夹里面。
+1. 首先需要安装php扩展。根据网站要使用的php版本，下载扩展文件（[php7.2](https://github.com/你的用户名/你的仓库/raw/main/ext/php7.2/idcsmart.so)、[php7.3](https://github.com/你的用户名/你的仓库/raw/main/ext/php7.3/idcsmart.so)、[php7.4](https://github.com/chidianqianying/zjmf_arm64/raw/main/php7.4/idcsmart.so)），上传到php安装目录 /lib/php/extensions/no-debug-non-zts-xxxx（xxxx为一串数字）文件夹里面。
 
 2. 修改php配置文件（php.ini），加入以下内容，然后重启php进程。
 
